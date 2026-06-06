@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、I'm [Your Name] 👋</h1>
+<h1 align="center">こんにちは、I'm Cher 👋</h1>
 
 <p align="center">
   <em>AIでアイデアを"動くもの"にするのが好きです。</em><br>
