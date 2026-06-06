@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Timezone-UTC%2B9%20(JST)-blue?style=flat-square" alt="Timezone JST" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cherjp&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherjp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📫 Reach me
